@@ -1,5 +1,3 @@
-Certainly! Here's a README file for the provided Python banking application code:
-
 # Banking Application README
 
 ## Overview
